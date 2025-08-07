@@ -1,0 +1,40 @@
+{
+    "people": [
+        {
+            "fullName": "Leonardo da Vinci",
+            "wikipediaPage": "https://it.wikipedia.org/wiki/Leonardo_da_Vinci",
+            "birthDate": "1452-04-15",
+            "deathDate": "1519-05-02"
+        },
+        {
+            "fullName": "Albert Einstein",
+            "wikipediaPage": "https://it.wikipedia.org/wiki/Albert_Einstein",
+            "birthDate": "1879-03-14",
+            "deathDate": "1955-04-18"
+        },
+        {
+            "fullName": "Marie Curie",
+            "wikipediaPage": "https://it.wikipedia.org/wiki/Marie_Curie",
+            "birthDate": "1867-11-07",
+            "deathDate": "1934-07-04"
+        },
+        {
+            "fullName": "Vincent van Gogh",
+            "wikipediaPage": "https://it.wikipedia.org/wiki/Vincent_van_Gogh",
+            "birthDate": "1853-03-30",
+            "deathDate": "1890-07-29"
+        },
+        {
+            "fullName": "Dante Alighieri",
+            "wikipediaPage": "https://it.wikipedia.org/wiki/Dante_Alighieri",
+            "birthDate": "1265-05-29",
+            "deathDate": "1321-09-14"
+        },
+        {
+            "fullName": "Elon Musk",
+            "wikipediaPage": "https://it.wikipedia.org/wiki/Elon_Musk",
+            "birthDate": "1971-06-28",
+            "deathDate": null
+        }
+    ]
+}
