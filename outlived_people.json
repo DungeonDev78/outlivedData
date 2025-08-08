@@ -4,205 +4,239 @@
             "fullName": "Leonardo da Vinci",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
             "birthDate": "1452-04-15",
-            "deathDate": "1519-05-02"
+            "deathDate": "1519-05-02",
+            "uuid": "54683678-1623-49ac-9e0e-0a4ff9c4594e"
         },
         {
             "fullName": "Isaac Newton",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Isaac_Newton",
             "birthDate": "1643-01-04",
-            "deathDate": "1727-03-31"
+            "deathDate": "1727-03-31",
+            "uuid": "1d75a0fc-e12e-47cb-8894-187ce5d31ecd"
         },
         {
             "fullName": "Galileo Galilei",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Galileo_Galilei",
             "birthDate": "1564-02-15",
-            "deathDate": "1642-01-08"
+            "deathDate": "1642-01-08",
+            "uuid": "8eab7fd9-8c0b-416c-9117-829700ee7710"
         },
         {
             "fullName": "Johann Sebastian Bach",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
             "birthDate": "1685-03-31",
-            "deathDate": "1750-07-28"
+            "deathDate": "1750-07-28",
+            "uuid": "ebbd79a9-7f64-447b-8338-908940e7a471"
         },
         {
             "fullName": "Wolfgang Amadeus Mozart",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
             "birthDate": "1756-01-27",
-            "deathDate": "1791-12-05"
+            "deathDate": "1791-12-05",
+            "uuid": "b51b2115-529c-4804-b035-d2accb13cb6c"
         },
         {
             "fullName": "Ludwig van Beethoven",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
             "birthDate": "1770-12-17",
-            "deathDate": "1827-03-26"
+            "deathDate": "1827-03-26",
+            "uuid": "806f5945-6952-4230-b117-24b3e1fb6e4d"
         },
         {
             "fullName": "Charles Darwin",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Charles_Darwin",
             "birthDate": "1809-02-12",
-            "deathDate": "1882-04-19"
+            "deathDate": "1882-04-19",
+            "uuid": "974b3b09-8ebf-4313-89d0-9d768293ee92"
         },
         {
             "fullName": "Ada Lovelace",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Ada_Lovelace",
             "birthDate": "1815-12-10",
-            "deathDate": "1852-11-27"
+            "deathDate": "1852-11-27",
+            "uuid": "aceffbd7-c4b0-4854-b70a-e04ea03c39a1"
         },
         {
             "fullName": "Vincent van Gogh",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
             "birthDate": "1853-03-30",
-            "deathDate": "1890-07-29"
+            "deathDate": "1890-07-29",
+            "uuid": "0700f5a7-cbf0-4b75-98c5-f36e62af2bf8"
         },
         {
             "fullName": "Nikola Tesla",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Nikola_Tesla",
             "birthDate": "1856-07-10",
-            "deathDate": "1943-01-07"
+            "deathDate": "1943-01-07",
+            "uuid": "d74fa958-327d-4131-b6c8-c721912ae371"
         },
         {
             "fullName": "Marie Curie",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Marie_Curie",
             "birthDate": "1867-11-07",
-            "deathDate": "1934-07-04"
+            "deathDate": "1934-07-04",
+            "uuid": "a0573389-e2f7-4f48-8947-5c88fde8ba0e"
         },
         {
             "fullName": "Mahatma Gandhi",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
             "birthDate": "1869-10-02",
-            "deathDate": "1948-01-30"
+            "deathDate": "1948-01-30",
+            "uuid": "e9439fda-a8e8-49ce-98d9-6330abd23d8d"
         },
         {
             "fullName": "Pablo Picasso",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Pablo_Picasso",
             "birthDate": "1881-10-25",
-            "deathDate": "1973-04-08"
+            "deathDate": "1973-04-08",
+            "uuid": "8cca4bfd-3733-4aa2-920e-7ba32d49516e"
         },
         {
             "fullName": "Albert Einstein",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Albert_Einstein",
             "birthDate": "1879-03-14",
-            "deathDate": "1955-04-18"
+            "deathDate": "1955-04-18",
+            "uuid": "846f5ac2-bc23-4c2d-8d59-3acc26851158"
         },
         {
-            "fullName": "Salvador Dalí",
+            "fullName": "Salvador Dal\u00ed",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Salvador_Dal%C3%AD",
             "birthDate": "1904-05-11",
-            "deathDate": "1989-01-23"
+            "deathDate": "1989-01-23",
+            "uuid": "dcb7b1fb-f0a7-48d0-9c0d-ca533db1843b"
         },
         {
             "fullName": "Frida Kahlo",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Frida_Kahlo",
             "birthDate": "1907-07-06",
-            "deathDate": "1954-07-13"
+            "deathDate": "1954-07-13",
+            "uuid": "c5ee8434-99f8-4591-b212-4f7c459d0878"
         },
         {
             "fullName": "Alan Turing",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Alan_Turing",
             "birthDate": "1912-06-23",
-            "deathDate": "1954-06-07"
+            "deathDate": "1954-06-07",
+            "uuid": "361c530e-edae-4f56-975d-42e12c966767"
         },
         {
             "fullName": "Queen Elizabeth II",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Elizabeth_II",
             "birthDate": "1926-04-21",
-            "deathDate": "2022-09-08"
+            "deathDate": "2022-09-08",
+            "uuid": "6577b791-25cf-430c-ae3d-7ed0dcb68a20"
         },
         {
             "fullName": "Martin Luther King Jr.",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
             "birthDate": "1929-01-15",
-            "deathDate": "1968-04-04"
+            "deathDate": "1968-04-04",
+            "uuid": "6e9f110d-315c-46e9-b0b4-cee2f54ca31e"
         },
         {
             "fullName": "John Lennon",
             "wikipediaPage": "https://en.wikipedia.org/wiki/John_Lennon",
             "birthDate": "1940-10-09",
-            "deathDate": "1980-12-08"
+            "deathDate": "1980-12-08",
+            "uuid": "4f99aac7-d094-4cbb-8f1d-79147ba7633b"
         },
         {
             "fullName": "Bruce Lee",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Bruce_Lee",
             "birthDate": "1940-11-27",
-            "deathDate": "1973-07-20"
+            "deathDate": "1973-07-20",
+            "uuid": "f2ae431e-98fe-4778-aa9d-b144002346f8"
         },
         {
             "fullName": "Stephen Hawking",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Stephen_Hawking",
             "birthDate": "1942-01-08",
-            "deathDate": "2018-03-14"
+            "deathDate": "2018-03-14",
+            "uuid": "d42d0cc3-cc96-4879-8474-7cc7d71b1c1a"
         },
         {
             "fullName": "Freddie Mercury",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Freddie_Mercury",
             "birthDate": "1946-09-05",
-            "deathDate": "1991-11-24"
+            "deathDate": "1991-11-24",
+            "uuid": "455e2902-294b-4ebf-8811-cc50b67ae09a"
         },
         {
             "fullName": "Steve Jobs",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Steve_Jobs",
             "birthDate": "1955-02-24",
-            "deathDate": "2011-10-05"
+            "deathDate": "2011-10-05",
+            "uuid": "077c61af-1dcd-47fc-b4ff-86efc1c94878"
         },
         {
             "fullName": "Princess Diana",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",
             "birthDate": "1961-07-01",
-            "deathDate": "1997-08-31"
+            "deathDate": "1997-08-31",
+            "uuid": "83cab1db-eed6-497f-a286-41e3fb99aa85"
         },
         {
             "fullName": "Whitney Houston",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Whitney_Houston",
             "birthDate": "1963-08-09",
-            "deathDate": "2012-02-11"
+            "deathDate": "2012-02-11",
+            "uuid": "b7e2751d-ee1e-488c-8aaa-22e0254df975"
         },
         {
             "fullName": "Kurt Cobain",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Kurt_Cobain",
             "birthDate": "1967-02-20",
-            "deathDate": "1994-04-05"
+            "deathDate": "1994-04-05",
+            "uuid": "8a270210-1095-48d5-a159-cfd8c40cc7e7"
         },
         {
             "fullName": "Michael Jackson",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Michael_Jackson",
             "birthDate": "1958-08-29",
-            "deathDate": "2009-06-25"
+            "deathDate": "2009-06-25",
+            "uuid": "9a61a649-bc54-495e-b76f-261d2b7e6475"
         },
         {
             "fullName": "Pope John Paul II",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Pope_John_Paul_II",
             "birthDate": "1920-05-18",
-            "deathDate": "2005-04-02"
+            "deathDate": "2005-04-02",
+            "uuid": "6422a443-4f03-4625-b055-70047ad16d1b"
         },
         {
             "fullName": "Kobe Bryant",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Kobe_Bryant",
             "birthDate": "1978-08-23",
-            "deathDate": "2020-01-26"
+            "deathDate": "2020-01-26",
+            "uuid": "3099e413-55e1-48f8-96b4-779b2c008d15"
         },
         {
             "fullName": "Paul Walker",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Paul_Walker",
             "birthDate": "1973-09-12",
-            "deathDate": "2013-11-30"
+            "deathDate": "2013-11-30",
+            "uuid": "2e77fead-f5c9-409a-9de2-14082c9ae616"
         },
         {
             "fullName": "Heath Ledger",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Heath_Ledger",
             "birthDate": "1979-04-04",
-            "deathDate": "2008-01-22"
+            "deathDate": "2008-01-22",
+            "uuid": "298e1d93-e26a-4503-983e-fb56e3e8ecca"
         },
         {
             "fullName": "Amy Winehouse",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Amy_Winehouse",
             "birthDate": "1983-09-14",
-            "deathDate": "2011-07-23"
+            "deathDate": "2011-07-23",
+            "uuid": "9895719f-e8b6-4ab5-bcf9-6c80159a7a1f"
         },
         {
             "fullName": "Avicii",
             "wikipediaPage": "https://en.wikipedia.org/wiki/Avicii",
             "birthDate": "1989-09-08",
-            "deathDate": "2018-04-20"
+            "deathDate": "2018-04-20",
+            "uuid": "2c776c97-982d-4dc9-9ce4-4db5462ee44f"
         }
     ]
 }
